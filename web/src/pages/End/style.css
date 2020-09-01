@@ -1,0 +1,18 @@
+.fullBlack {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    text-align: center;
+}
+.correctContent {
+    padding-top: 10%;
+}
+.ico {
+    width: 150px;
+    height: 150px;
+    color: green;
+}
+#text_sucesso {
+    padding-top: 20px;
+    color: #FFF;
+}
